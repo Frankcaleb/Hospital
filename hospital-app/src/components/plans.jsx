@@ -49,7 +49,7 @@ function Plans() {
                         <li className='md:py-1'>Clean Up</li>
                         <li className='md:py-1'>Diagnosis</li>
                     </ul>
-                    <button className='hover:ease-in-out hover:bg-blue-800 hover:text-white hover:font-semibold border rounded-full border-blue-800 text-blue-800 px-7 py-1 text-sm text-center mx-11 mt-3 mb-3'>Get Now</button>
+                    <button className='hover:ease-in-out hover:bg-blue-800 hover:text-white hover:font-semibold border rounded-full border-blue-800 text-blue-800 px-5 md:px-7 py-1 text-sm text-center mx-11 mt-3 mb-3'>Get Now</button>
                 </div>
                 <div className='hover:ease-in-out hover:shadow-2xl mx-16 text-center md:text-left md:mx-0 md:bg-white p-2 md:mr-5 rounded shadow'>
                     <p className='font-semibold text-sm mx-3'>Health Spot</p>
