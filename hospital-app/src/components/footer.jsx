@@ -3,7 +3,7 @@ import { FaXTwitter, FaEnvelope, FaInstagram, FaFacebook } from 'react-icons/fa6
 
 function Footer() {
     return (
-        <div className='bg-blue-950 py-3 px-2 md:px-32 md:py-20  flex text-white'>
+        <div className='bg-blue-950 py-3 px-3 md:px-32 md:py-20  flex text-white'>
              <div>
                 <h1 className='font-bold  mb-3 text-sm'>CYBER</h1>
                 <p className='text-xs w-32 text-balance md:0 md:w-full '>Lorem ipsum dolor sit amet consectetur, adipisicing elit.  <br />Ipsam autem ullam libero voluptatum sed expedita sequi <br /> dolor sapiente explicabo aliquid, nobis optio numquam <br /> reprehenderit. Eveniet nobis cupiditate magni a mollitia?</p>
