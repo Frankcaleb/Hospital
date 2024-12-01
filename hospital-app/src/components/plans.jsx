@@ -25,7 +25,7 @@ function Plans() {
 
             <h1 className='text-3xl md:text-4xl text-blue-950 mt-1 mb-5 text-center'>Empowering wellness one <br /> patient at a time</h1>
             <div className=' md:flex justify-center mt-10'>
-                <div className='hover:ease-in-out hover:shadow-2xl mx-16 text-center md:text-left md:bg-white p-2 rounded shadow md:mx-0'>
+                <div className='hover:ease-in-out hover:shadow-2xl mx-8 text-center md:text-left md:bg-white p-2 rounded shadow md:mx-0'>
                     <p className='font-semibold text-sm mx-3'>Quick Care</p>
                     <p className='text-3xl text-blue-400 m-3'>$19 <span className='text-sm text-blue-400'>monthly</span></p>
                     <p className='font-semibold text-sm mb-3 mx-3 '>Lorem, ipsum dolor sit amet <br /> consectetur</p>
@@ -38,7 +38,7 @@ function Plans() {
                     </ul>
                     <button className='hover:ease-in-out hover:bg-blue-800 hover:text-white hover:font-semibold border rounded-full border-blue-800 text-blue-800 px-7 py-1 text-sm text-center mx-11 mt-3 mb-3'>Get Now</button>
                 </div>
-                <div className='hover:ease-in-out hover:shadow-2xl mx-20 text-center my-10 md:my-0 md:text-left md:bg-white p-2 md:mx-5 rounded shadow'>
+                <div className='hover:ease-in-out hover:shadow-2xl mx-8 text-center my-10 md:my-0 md:text-left md:bg-white p-2 md:mx-5 rounded shadow'>
                     <p className='font-semibold text-sm mx-3'>Wellness Work</p>
                     <p className='text-3xl text-blue-400 m-3'>$89 <span className='text-sm text-blue-400'>monthly</span></p>
                     <p className='font-semibold text-sm mb-3 mx-3'>Lorem, ipsum dolor sit amet <br /> consectetur</p>
@@ -51,7 +51,7 @@ function Plans() {
                     </ul>
                     <button className='hover:ease-in-out hover:bg-blue-800 hover:text-white hover:font-semibold border rounded-full border-blue-800 text-blue-800 px-5 md:px-7 py-1 text-sm text-center mx-11 mt-3 mb-3'>Get Now</button>
                 </div>
-                <div className='hover:ease-in-out hover:shadow-2xl mx-16 text-center md:text-left md:mx-0 md:bg-white p-2 md:mr-5 rounded shadow'>
+                <div className='hover:ease-in-out hover:shadow-2xl mx-8 text-center md:text-left md:mx-0 md:bg-white p-2 md:mr-5 rounded shadow'>
                     <p className='font-semibold text-sm mx-3'>Health Spot</p>
                     <p className='text-3xl text-blue-400 m-3'>$49 <span className='text-sm text-blue-400'>monthly</span></p>
                     <p className='font-semibold text-sm mb-3 mx-3'>Lorem, ipsum dolor sit amet <br /> consectetur</p>
@@ -64,7 +64,7 @@ function Plans() {
                     </ul>
                     <button className='hover:ease-in-out hover:bg-blue-800 hover:text-white hover:font-semibold border rounded-full border-blue-800 text-blue-800 px-7 py-1 text-sm text-center mx-11 mt-3 mb-3'>Get Now</button>
                 </div>
-                <div className='hover:ease-in-out hover:shadow-2xl mx-16 text-center my-10 md:my-0 md:mx-0 md:text-left md:bg-white p-2 rounded-lg shadow'>
+                <div className='hover:ease-in-out hover:shadow-2xl mx-8 text-center my-10 md:my-0 md:mx-0 md:text-left md:bg-white p-2 rounded-lg shadow'>
                     <p className='font-semibold text-sm mx-3'>Medical Ease</p>
                     <p className='text-3xl text-blue-400 m-3'>$19 <span className='text-sm text-blue-400'>monthly</span></p>
                     <p className='font-semibold text-sm mb-3 mx-3'>Lorem, ipsum dolor sit amet <br /> consectetur</p>
