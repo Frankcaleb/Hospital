@@ -6,7 +6,7 @@ function Footer() {
         <div className='bg-blue-950 p-3 md:px-32 md:py-20  flex text-white'>
              <div>
                 <h1 className='font-bold  mb-3 text-sm'>CYBER</h1>
-                <p className='text-xs w-32 text-balance md:0 md:w-full '>Lorem ipsum dolor sit amet consectetur, adipisicing elit.  <br />Ipsam autem ullam libero voluptatum sed expedita sequi <br /> dolor sapiente explicabo aliquid, nobis optio numquam <br /> reprehenderit. Eveniet nobis cupiditate magni a mollitia?</p>
+                <p className='text-xs w-36 text-balance md:0 md:w-full '>Lorem ipsum dolor sit amet consectetur, adipisicing elit.  <br />Ipsam autem ullam libero voluptatum sed expedita sequi <br /> dolor sapiente explicabo aliquid, nobis optio numquam <br /> reprehenderit. Eveniet nobis cupiditate magni a mollitia?</p>
                 <div className='flex mt-3'>
                     <FaFacebook/>
                     <FaInstagram className='mx-3'/>
